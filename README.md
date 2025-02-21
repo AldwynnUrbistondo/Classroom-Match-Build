@@ -29,7 +29,7 @@ Roblox Studio – Used to design and export 3D backgrounds.
 Gaegu – A custom font used to enhance in-game text's visual appeal and readability.
 
 
-##Gameplay Overview
+## Gameplay Overview
 
 Classroom Match is a multiplayer memory card game designed for two players. The objective is to memorize and match pairs of cards based on their icons.
 How It Works:
