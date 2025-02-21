@@ -1,7 +1,7 @@
-##Game Title
+## Game Title
 Classroom Match
 
-##Team Name
+## Team Name
 Level-Up Legions
 
 ##Technical Stack
