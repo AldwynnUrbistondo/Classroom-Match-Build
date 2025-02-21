@@ -1,10 +1,8 @@
-## Game Title
-Classroom Match
+# Classroom Match
 
-## Team Name
-Level-Up Legions
+## Level-Up Legions
 
-##Technical Stack
+## Technical Stack
 The following tools and technologies were utilized in the development of Classroom Match:
 
 •Game Engine:
